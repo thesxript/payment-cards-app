@@ -26,8 +26,8 @@ sudo apt-get install postgresql-14.6
 1.  Get the code. Clone this git repository and check out the latest release:
 
     ```bash
-    git clone https://github.com/
-    cd cards
+    git clone https://github.com/thesxript/payment-cards-app
+    cd payment-cards-app
     ```
 
 2.  Install the required gems by running the following command in the project root directory:
